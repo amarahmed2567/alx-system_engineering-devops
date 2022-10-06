@@ -1,3 +1,1 @@
-
-
-0x01. Shell, permissions
+permission managements
