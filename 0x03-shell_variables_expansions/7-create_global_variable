@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BEST
+set BEST=School
